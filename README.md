@@ -11,13 +11,13 @@ be on (4, 4). The command N would move the robot one position north so a robot a
 
 
 ### Input 
-An input of 1 3 -2 4 2 corresponds to the robot starting at position (1, 3) and
+An input via command line of 1 3 -2 4 2 corresponds to the robot starting at position (1, 3) and
 needing to get to position (-2, 4) with the constraints that one can only move 2 steps in one
 direction before having to shift to a new position.
 
 
 ### Output
-For the input 1 2 3 5 2 which corresponds to (1,2) -> (3,5), the output should be:
+For the input to the command line: 1 2 3 5 2 which corresponds to (1,2) -> (3,5), the output should be:
 
 % GreedyRobot 1 2 3 5 2
 NNENE
