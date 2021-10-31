@@ -28,3 +28,5 @@ NEENN
 ENNEN
 ENENN
 Number of paths: 7
+
+### Project was run on Linux (g++ to compile), or use Visual Studio
